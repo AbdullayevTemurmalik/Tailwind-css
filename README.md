@@ -1,1 +1,1 @@
-Bu Fayl da sizlar qanday qilib 
+Bu Fayl da sizlar qanday qilib Tailwind 
