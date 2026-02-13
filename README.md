@@ -1,1 +1,1 @@
-Bu Fayl da sizlar qanday qilib Tailwind css 
+Bu Fayl da sizlar qanday qilib Tailwind css ni 
